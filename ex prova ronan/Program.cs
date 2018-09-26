@@ -16,6 +16,8 @@ namespace ex_prova_ronan
                 int quantidade;
                 double valorProduto, valorTotal;
 
+                Console.WriteLine("***** Exercício 4 - Avaliação 1 *****");
+
                 Console.Write("Informe o nome do produto: ");
                 nomeProduto = Console.ReadLine();
 

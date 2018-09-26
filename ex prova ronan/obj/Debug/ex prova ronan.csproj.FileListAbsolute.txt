@@ -4,3 +4,6 @@ C:\Users\etec\Desktop\ex prova ronan\ex prova ronan\bin\Debug\ex prova ronan.pdb
 C:\Users\etec\Desktop\ex prova ronan\ex prova ronan\obj\Debug\ex prova ronan.csprojResolveAssemblyReference.cache
 C:\Users\etec\Desktop\ex prova ronan\ex prova ronan\obj\Debug\ex prova ronan.exe
 C:\Users\etec\Desktop\ex prova ronan\ex prova ronan\obj\Debug\ex prova ronan.pdb
+C:\Users\etec\Desktop\exercicio4-avaliacao1\ex prova ronan\bin\Debug\ex prova ronan.exe.config
+C:\Users\etec\Desktop\exercicio4-avaliacao1\ex prova ronan\obj\Debug\ex prova ronan.exe
+C:\Users\etec\Desktop\exercicio4-avaliacao1\ex prova ronan\obj\Debug\ex prova ronan.pdb
